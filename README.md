@@ -78,5 +78,8 @@ The following PRs were made in the given hierarchy as part of the GSoC'24 projec
   - PR - [#4093](https://github.com/deepchem/deepchem/pull/4093) (Status: Merged on Aug 19th) ✅
     - Fixed image rendering issue in polymer tutorials using github image paths
 
+## Week - 12 (19.08.2024 - 26.08.2024)
+  - PR - [#4105](https://github.com/deepchem/deepchem/pull/4015) (Status: Merged on Aug 24th) ✅
+    - Tutorial on utilization of PolyBERT for similarity prediction of polymer molecules
 
   
