@@ -33,7 +33,7 @@ The following PRs were made in the given hierarchy as part of the GSoC'24 projec
     - PR – [#4017](https://github.com/deepchem/deepchem/pull/4017)  (Status : Merged on July 8th) ✅
       - PR for weighted directed data classes with added documentation
         
-    - PR – [#4020](https://github.com/deepchem/deepchem/pull/4020)  (Status : Will be considered while Complete Pipeline Integration)
+    - PR – [#4020](https://github.com/deepchem/deepchem/pull/4020)  (Status : Merged on Oct 14th ) ✅
       -  PR for weighted directed data validator classes with splitted unit-cases
 
     - PR – [#4021](https://github.com/deepchem/deepchem/pull/4021)  (Status : Will be considered while Complete Pipeline Integration)
